@@ -1,4 +1,5 @@
 # [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/)
 > Track healthy organs in medical scans to improve cancer treatment
 
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/27923/logos/header.png?t=2021-06-02-20-30-25">
+![header](https://user-images.githubusercontent.com/36858976/170869457-834d9261-cc9f-4452-bd9d-6b85dd31c1d2.png)
+
